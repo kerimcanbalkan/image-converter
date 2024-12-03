@@ -2,7 +2,7 @@
 
 Convert images from one format to another,
 
-- usage
+## usage
 
 go run main.go <input.format> <output.format>
 
